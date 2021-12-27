@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 Hi there 👋
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking for oppurtunities as a Web Developer
 - ⚡ Coding is Fun!
