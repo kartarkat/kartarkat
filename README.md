@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 Building MERN apps
+- 🌱 React js Develper
+- ✨ Building Awesome Web apps
 - ⚡ Coding is Fun!
 
