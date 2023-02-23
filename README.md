@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 React js Develper
+- 🌱 React js Developer
 - ✨ Building Awesome Web apps
 - ⚡ Coding is Fun!
 
